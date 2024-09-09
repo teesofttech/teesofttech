@@ -26,7 +26,7 @@
 
 ### 👨‍💻: About Me : Babatunde Esanju
 
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from United Kingdom.
 
 Babatunde has over 8 years of professional experience in software engineering, with a strong focus on developing high-quality software products and services. He has a deep understanding of the entire software development life cycle, from requirements gathering and analysis, to design and implementation, to testing and deployment. He is passionate about creating software solutions that are both reliable and secure.
 
