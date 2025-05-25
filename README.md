@@ -66,7 +66,41 @@ Babatunde has over 8 years of professional experience in software engineering, w
   
   ![Babatunde's GitHub stats](https://github-readme-stats.vercel.app/api?username=teesofttech&show_icons=true&theme=radical)
  
- 
+
+
+ ## ⭐️ My Recent OpenSource Projects
+<table>
+   <thead>
+      <tr>
+        <th>System</th>
+        <th>Status</th>
+        <th>Description</th>
+      </tr>
+   </thead>
+   <tbody>
+       <tr>
+         <td width="180px"><a href='https://github.com/seamailer/seamailer-dotnet'>🙂‍↔️ Seamailer</a></td>
+          <td>✅</td>
+          <td>A .NET SDK for Seamailer, an all-in-one email marketing platform. It enables developers to integrate features like email campaigns, automation, segmentation, and analytics into their applications via RESTful APIs and SDKs.</td>
+       </tr>    
+       <tr>
+         <td width="180px"><a href='https://github.com/teesofttech/PayBridge'>🛹 PayBridge</a></td>
+          <td>✅</td>
+         <td>A unified .NET SDK that abstracts multiple payment gateways including Flutterwave, Paystack, Fincra, and Stripe—allowing developers to integrate payments, handle webhooks, and manage transactions from a single interface with Clean Architecture support.</td>
+       </tr>        
+       <tr>
+         <td width="180px"><a href='https://github.com/teesofttech/Termii.SDK'>⏲️ Termii</a></td>
+          <td>✅</td>
+         <td>A .NET SDK for Termii’s messaging platform, enabling seamless integration of SMS, voice, WhatsApp, and email communication. It supports OTP delivery, phone number validation, and transactional messaging for user engagement.</td>
+       </tr>          
+       <tr>
+         <td width="180px"><a href='https://github.com/teesofttech/Flutterwave.SDK'>📺 Flutterwave.SDK</a></td>
+          <td>✅</td>
+         <td>	A robust .NET SDK that connects your app to Flutterwave’s payment infrastructure. Accept payments via cards, bank transfers, mobile money, and more. Includes support for split payments, recurring billing, and virtual accounts.</td>
+       </tr>  
+      
+    </tbody>
+</table>
   </div>
   
  
