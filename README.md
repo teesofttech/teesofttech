@@ -98,8 +98,7 @@ Babatunde has over 8 years of professional experience in software engineering, w
           <td>✅</td>
          <td>	A robust .NET SDK that connects your app to Flutterwave’s payment infrastructure. Accept payments via cards, bank transfers, mobile money, and more. Includes support for split payments, recurring billing, and virtual accounts.</td>
        </tr>  
-      
-    </tbody>
+   </tbody>
 </table>
   </div>
   
