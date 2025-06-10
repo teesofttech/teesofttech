@@ -98,6 +98,16 @@ Babatunde has over 8 years of professional experience in software engineering, w
           <td>✅</td>
          <td>	A robust .NET SDK that connects your app to Flutterwave’s payment infrastructure. Accept payments via cards, bank transfers, mobile money, and more. Includes support for split payments, recurring billing, and virtual accounts.</td>
        </tr>  
+     <tr>
+  <td width="180px"><a href="https://github.com/your-org/CronCraft">⏰ CronCraft</a></td>
+  <td>✅</td>
+  <td>A fluent cron-expression builder, parser, and validator for .NET—create schedules with readable code instead of magic strings.</td>
+</tr>
+      <tr>
+        <td width="180px"><a href='https://github.com/your-org/PolyBus'>🚍 PolyBus</a></td>
+        <td>✅</td>
+        <td>A pluggable .NET 8 messaging SDK that unifies RabbitMQ, Azure Service Bus, Kafka, and an in-memory transport under one fluent API. Swap brokers with a single line, add custom serializers, and test locally without infrastructure.</td>
+      </tr>
    </tbody>
 </table>
   </div>
