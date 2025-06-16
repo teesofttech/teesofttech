@@ -72,51 +72,50 @@ Babatunde has over 8 years of professional experience in software engineering, w
 <table>
    <thead>
       <tr>
-        <th>System</th>
-        <th>Status</th>
-        <th>Description</th>
+         <th>System</th>
+         <th>Status</th>
+         <th>Description</th>
       </tr>
    </thead>
    <tbody>
-       <tr>
-         <td width="180px"><a href='https://github.com/seamailer/seamailer-dotnet'>🙂‍↔️ Seamailer</a></td>
-          <td>✅</td>
-          <td>A .NET SDK for Seamailer, an all-in-one email marketing platform. It enables developers to integrate features like email campaigns, automation, segmentation, and analytics into their applications via RESTful APIs and SDKs.</td>
-       </tr>    
-       <tr>
-         <td width="180px"><a href='https://github.com/teesofttech/PayBridge'>🛹 PayBridge</a></td>
-          <td>✅</td>
-         <td>A unified .NET SDK that abstracts multiple payment gateways, including Flutterwave, Paystack, Fincra, and Stripe—allowing developers to integrate payments, handle webhooks, and manage transactions from a single interface with Clean Architecture support.</td>
-       </tr>        
-       <tr>
-         <td width="180px"><a href='https://github.com/teesofttech/Termii.SDK'>⏲️ Termii</a></td>
-          <td>✅</td>
-         <td>A .NET SDK for Termii’s messaging platform, enabling seamless integration of SMS, voice, WhatsApp, and email communication. It supports OTP delivery, phone number validation, and transactional messaging for user engagement.</td>
-       </tr>          
-       <tr>
-         <td width="180px"><a href='https://github.com/teesofttech/Flutterwave.SDK'>📺 Flutterwave.SDK</a></td>
-          <td>✅</td>
-         <td>	A robust .NET SDK that connects your app to Flutterwave’s payment infrastructure. Accept payments via cards, bank transfers, mobile money, and more. Includes support for split payments, recurring billing, and virtual accounts.</td>
-       </tr>  
-     <tr>
-  <td width="180px"><a href="https://github.com/teesofttech/CronCraft">⏰ CronCraft</a></td>
-  <td>✅</td>
-  <td>A fluent cron-expression builder, parser, and validator for .NET—create schedules with readable code instead of magic strings.</td>
-</tr>
       <tr>
-        <td width="180px"><a href='https://github.com/teesofttech/PolyBus'>🚍 PolyBus</a></td>
-        <td>✅</td>
-        <td>A pluggable .NET 8 messaging SDK that unifies RabbitMQ, Azure Service Bus, Kafka, and an in-memory transport under one fluent API. Swap brokers with a single line, add custom serializers, and test locally without infrastructure.</td>
+         <td width="180px"><a href='https://github.com/seamailer/seamailer-dotnet'>🙂‍↔️ Seamailer</a></td>
+         <td>✅</td>
+         <td>A .NET SDK for Seamailer, an all-in-one email marketing platform. It enables developers to integrate features like email campaigns, automation, segmentation, and analytics into their applications via RESTful APIs and SDKs.</td>
       </tr>
-
-     <tr>
-  <td width="180px"><a href='https://github.com/teesofttech/Tableau.SDK'>📊 Tableau.SDK</a></td>
-  <td>🚧</td>
-  <td>A .NET SDK for integrating with Tableau’s REST and JavaScript APIs. Enables developers to connect, fetch workbooks and views, manage filters, and embed analytics seamlessly into their applications.</td>
-</tr>
-
+      <tr>
+         <td width="180px"><a href='https://github.com/teesofttech/PayBridge'>🛹 PayBridge</a></td>
+         <td>✅</td>
+         <td>A unified .NET SDK that abstracts multiple payment gateways, including Flutterwave, Paystack, Fincra, and Stripe—allowing developers to integrate payments, handle webhooks, and manage transactions from a single interface with Clean Architecture support.</td>
+      </tr>
+      <tr>
+         <td width="180px"><a href='https://github.com/teesofttech/Termii.SDK'>⏲️ Termii</a></td>
+         <td>✅</td>
+         <td>A .NET SDK for Termii’s messaging platform, enabling seamless integration of SMS, voice, WhatsApp, and email communication. It supports OTP delivery, phone number validation, and transactional messaging for user engagement.</td>
+      </tr>
+      <tr>
+         <td width="180px"><a href='https://github.com/teesofttech/Flutterwave.SDK'>📺 Flutterwave.SDK</a></td>
+         <td>✅</td>
+         <td>	A robust .NET SDK that connects your app to Flutterwave’s payment infrastructure. Accept payments via cards, bank transfers, mobile money, and more. Includes support for split payments, recurring billing, and virtual accounts.</td>
+      </tr>
+      <tr>
+         <td width="180px"><a href="https://github.com/teesofttech/CronCraft">⏰ CronCraft</a></td>
+         <td>✅</td>
+         <td>A fluent cron-expression builder, parser, and validator for .NET—create schedules with readable code instead of magic strings.</td>
+      </tr>
+      <tr>
+         <td width="180px"><a href='https://github.com/teesofttech/PolyBus'>🚍 PolyBus</a></td>
+         <td>✅</td>
+         <td>A pluggable .NET 8 messaging SDK that unifies RabbitMQ, Azure Service Bus, Kafka, and an in-memory transport under one fluent API. Swap brokers with a single line, add custom serializers, and test locally without infrastructure.</td>
+      </tr>
+      <tr>
+         <td width="180px"><a href='https://github.com/teesofttech/Tableau.SDK'>📊 Tableau.SDK</a></td>
+         <td>🚧</td>
+         <td>A .NET SDK for integrating with Tableau’s REST and JavaScript APIs. Enables developers to connect, fetch workbooks and views, manage filters, and embed analytics seamlessly into their applications.</td>
+      </tr>
    </tbody>
 </table>
+
   </div>
   
  
