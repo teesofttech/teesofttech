@@ -90,12 +90,12 @@ Babatunde has over 8 years of professional experience in software engineering, w
       </tr>
       <tr>
          <td width="180px"><a href='https://github.com/teesofttech/Termii.SDK'>⏲️ Termii</a></td>
-         <td>✅</td>
+         <td>🚧</td>
          <td>A .NET SDK for Termii’s messaging platform, enabling seamless integration of SMS, voice, WhatsApp, and email communication. It supports OTP delivery, phone number validation, and transactional messaging for user engagement.</td>
       </tr>
       <tr>
          <td width="180px"><a href='https://github.com/teesofttech/Flutterwave.SDK'>📺 Flutterwave.SDK</a></td>
-         <td>✅</td>
+         <td>🚧</td>
          <td>	A robust .NET SDK that connects your app to Flutterwave’s payment infrastructure. Accept payments via cards, bank transfers, mobile money, and more. Includes support for split payments, recurring billing, and virtual accounts.</td>
       </tr>
       <tr>
@@ -105,7 +105,7 @@ Babatunde has over 8 years of professional experience in software engineering, w
       </tr>
       <tr>
          <td width="180px"><a href='https://github.com/teesofttech/PolyBus'>🚍 PolyBus</a></td>
-         <td>✅</td>
+         <td>🚧</td>
          <td>A pluggable .NET 8 messaging SDK that unifies RabbitMQ, Azure Service Bus, Kafka, and an in-memory transport under one fluent API. Swap brokers with a single line, add custom serializers, and test locally without infrastructure.</td>
       </tr>
       <tr>
