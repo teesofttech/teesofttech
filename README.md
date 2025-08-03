@@ -109,7 +109,7 @@ Babatunde has over 8 years of professional experience in software engineering, w
          <td>A pluggable .NET 8 messaging SDK that unifies RabbitMQ, Azure Service Bus, Kafka, and an in-memory transport under one fluent API. Swap brokers with a single line, add custom serializers, and test locally without infrastructure.</td>
       </tr>
       <tr>
-         <td width="180px"><a href='https://github.com/teesofttech/Tableau.SDK'>📊 Tableau.SDK</a></td>
+         <td width="180px"><a href='https://github.com/teesofttech/TableauSharp'>📊 TableauSharp</a></td>
          <td>🚧</td>
          <td>A .NET SDK for integrating with Tableau’s REST and JavaScript APIs. Enables developers to connect, fetch workbooks and views, manage filters, and embed analytics seamlessly into their applications.</td>
       </tr>
