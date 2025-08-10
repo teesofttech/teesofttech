@@ -24,7 +24,7 @@
  
   ---
 
-### 👨‍💻: About Me : Babatunde Esanju
+### 👨‍💻: About Me : Babatunde Esanju (Open Source Contributor)
 
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from United Kingdom.
 
