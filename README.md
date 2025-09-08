@@ -93,11 +93,7 @@ Babatunde has over 8 years of professional experience in software engineering, w
          <td>🚧</td>
          <td>A .NET SDK for Termii’s messaging platform, enabling seamless integration of SMS, voice, WhatsApp, and email communication. It supports OTP delivery, phone number validation, and transactional messaging for user engagement.</td>
       </tr>
-      <tr>
-         <td width="180px"><a href='https://github.com/teesofttech/Flutterwave.SDK'>📺 Flutterwave.SDK</a></td>
-         <td>🚧</td>
-         <td>	A robust .NET SDK that connects your app to Flutterwave’s payment infrastructure. Accept payments via cards, bank transfers, mobile money, and more. Includes support for split payments, recurring billing, and virtual accounts.</td>
-      </tr>
+ 
       <tr>
          <td width="180px"><a href="https://github.com/teesofttech/CronCraft">⏰ CronCraft</a></td>
          <td>✅</td>
