@@ -122,9 +122,10 @@ Status      : Open to Collaboration 🤝
 |:--------|:------:|:------------|
 | [🙂 **Seamailer**](https://github.com/seamailer/seamailer-dotnet) | ✅ Stable | A .NET SDK for Seamailer — an all-in-one email marketing platform. Integrates email campaigns, automation, segmentation, and analytics via RESTful APIs. |
 | [🛹 **PayBridge**](https://github.com/teesofttech/PayBridge) | ✅ Stable | A unified .NET SDK abstracting Flutterwave, Paystack, Fincra & Stripe under one Clean Architecture interface for payments, webhooks & transactions. |
-| [⏲️ **Termii SDK**](https://github.com/teesofttech/Termii.SDK) | 🚧 In Progress | A .NET SDK for Termii's messaging platform — SMS, voice, WhatsApp & email with OTP delivery, phone validation & transactional messaging. |
+| [⏲️ **Termii SDK**](https://github.com/teesofttech/Termii.SDK) | ✅ Stable | A .NET SDK for Termii's messaging platform — SMS, voice, WhatsApp & email with OTP delivery, phone validation & transactional messaging. |
 | [⏰ **CronCraft**](https://github.com/teesofttech/CronCraft) | ✅ Stable | A fluent cron-expression builder, parser & validator for .NET — write readable schedules instead of magic strings. |
-| [🚍 **PolyBus**](https://github.com/teesofttech/PolyBus) | 🚧 In Progress | A pluggable .NET 8 messaging SDK unifying RabbitMQ, Azure Service Bus, Kafka & in-memory transport under one fluent API. |
+| [🚍 **SMSBridge**](https://github.com/teesofttech/SMSBridge) | 🚧 In Progress | SMSBridge is a provider-agnostic .NET SDK for sending SMS through multiple providers with delivery tracking, inbound messages, and failover support. |
+| [🚍 **EmailBridge**](https://github.com/teesofttech/SMSBridge) | 🚧 In Progress | EmailBridge is a provider-agnostic .NET SDK for sending transactional emails through multiple providers with one clean API. |
 | [📊 **TableauSharp**](https://github.com/teesofttech/TableauSharp) | 🚧 In Progress | A .NET SDK for Tableau's REST & JavaScript APIs — connect, fetch workbooks/views, manage filters & embed analytics seamlessly. |
 
 </div>
@@ -132,11 +133,7 @@ Status      : Open to Collaboration 🤝
 ---
 
 <!-- ═══════════════════ CONTRIBUTION GRAPH ═══════════════════ -->
-## 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://github.com/teesofttech/teesofttech/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+## Contribution Activity
 
 ---
 
