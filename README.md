@@ -125,8 +125,8 @@ NuGet package pages.
 | [**DistributedLock**](https://github.com/madelson/DistributedLock) | Contributor | Merged contributions to a distributed-locking library with 8M+ NuGet downloads across the .NET community. |
 | [**Termii.SDK**](https://github.com/teesofttech/Termii.SDK) | Author | .NET SDK for the Termii messaging platform — SMS, voice, WhatsApp & email, OTP delivery and phone validation. |
 | [**Seamailer**](https://github.com/seamailer/seamailer-dotnet) | Author | .NET SDK for the Seamailer email-marketing platform — campaigns, automation, segmentation & analytics. |
-| [**SMSBridge**](https://github.com/teesofttech/SMSBridge) | Author · 🚧 WIP | Provider-agnostic .NET SDK for SMS with delivery tracking, inbound messages and failover. |
-| [**TableauSharp**](https://github.com/teesofttech/TableauSharp) | Author · 🚧 WIP | .NET SDK for Tableau's REST & JavaScript APIs — workbooks, views, filters and embedded analytics. |
+| [**SMSBridge**](https://github.com/teesofttech/SMSBridge) | Author | Provider-agnostic .NET SDK for SMS with delivery tracking, inbound messages and failover. |
+| [**TableauSharp**](https://github.com/teesofttech/TableauSharp) | Author | .NET SDK for Tableau's REST & JavaScript APIs — workbooks, views, filters and embedded analytics. |
 
 </div>
 
