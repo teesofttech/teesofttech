@@ -54,8 +54,7 @@ Status      : Open to Collaboration 🤝
 ```
 
 I'm a software engineer with over a decade of experience shipping production systems
-across enterprise ticketing, fintech, and healthtech. I work on the Nliven enterprise
-ticketing platform by day, and I build and maintain open-source .NET libraries that
+across enterprise ticketing, fintech, and healthtech. I build and maintain open-source .NET libraries that
 other developers depend on in their own projects.
 
 - 🔭 &nbsp;Software Engineer building frontend & backend systems on **.NET 8**, **Vue.js** and **Azure**
