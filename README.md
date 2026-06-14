@@ -49,12 +49,12 @@ Location    : 🇬🇧 Liverpool, United Kingdom
 Role        : Full Stack Software Engineer
 Experience  : 10+ Years
 Speciality  : .NET · Cloud · Distributed Systems · Open Source SDKs
-Domains     : Enterprise Ticketing · FinTech · HealthTech · LegalTech
+Domains     : CareTech, InsurTech, Enterprise Ticketing · FinTech · HealthTech · LegalTech
 Status      : Open to Collaboration 🤝
 ```
 
 I'm a software engineer with over a decade of experience shipping production systems
-across enterprise ticketing, fintech, and healthtech. I build and maintain open-source .NET libraries that
+across caretech, legaltech, insurtech, enterprise ticketing, fintech, and healthtech. I build and maintain open-source .NET libraries that
 other developers depend on in their own projects.
 
 - 🔭 &nbsp;Software Engineer building frontend & backend systems on **.NET 8**, **Vue.js** and **Azure**
