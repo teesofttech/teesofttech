@@ -114,18 +114,37 @@ Status      : Open to Collaboration 🤝
 ---
 
 <!-- ═══════════════════ OPEN SOURCE PROJECTS ═══════════════════ -->
-## ⭐ Open Source Projects
+## ⭐ My Open Source Projects
 
 <div align="center">
 
-| Project | Status | Description |
-|:--------|:------:|:------------|
-| [🙂 **Seamailer**](https://github.com/seamailer/seamailer-dotnet) | ✅ Stable | A .NET SDK for Seamailer — an all-in-one email marketing platform. Integrates email campaigns, automation, segmentation, and analytics via RESTful APIs. |
-| [🛹 **PayBridge**](https://github.com/teesofttech/PayBridge) | ✅ Stable | A unified .NET SDK abstracting Flutterwave, Paystack, Fincra & Stripe under one Clean Architecture interface for payments, webhooks & transactions. |
-| [⏲️ **Termii SDK**](https://github.com/teesofttech/Termii.SDK) | 🚧 In Progress | A .NET SDK for Termii's messaging platform — SMS, voice, WhatsApp & email with OTP delivery, phone validation & transactional messaging. |
-| [⏰ **CronCraft**](https://github.com/teesofttech/CronCraft) | ✅ Stable | A fluent cron-expression builder, parser & validator for .NET — write readable schedules instead of magic strings. |
-| [🚍 **PolyBus**](https://github.com/teesofttech/PolyBus) | 🚧 In Progress | A pluggable .NET 8 messaging SDK unifying RabbitMQ, Azure Service Bus, Kafka & in-memory transport under one fluent API. |
-| [📊 **TableauSharp**](https://github.com/teesofttech/TableauSharp) | 🚧 In Progress | A .NET SDK for Tableau's REST & JavaScript APIs — connect, fetch workbooks/views, manage filters & embed analytics seamlessly. |
+| Project | Status | Stats | Description |
+|:--------|:------:|:-----:|:------------|
+| [🙂 **Seamailer**](https://github.com/seamailer/seamailer-dotnet) | ✅ Stable | [![Stars](https://img.shields.io/github/stars/seamailer/seamailer-dotnet?style=flat-square&color=yellow&logo=github)](https://github.com/seamailer/seamailer-dotnet) [![NuGet](https://img.shields.io/nuget/dt/Seamailer?style=flat-square&color=004880&logo=nuget)](https://www.nuget.org/packages/Seamailer) | A .NET SDK for Seamailer — an all-in-one email marketing platform. Integrates email campaigns, automation, segmentation, and analytics via RESTful APIs. |
+| [🛹 **PayBridge**](https://github.com/teesofttech/PayBridge) | ✅ Stable | [![Stars](https://img.shields.io/github/stars/teesofttech/PayBridge?style=flat-square&color=yellow&logo=github)](https://github.com/teesofttech/PayBridge) [![NuGet](https://img.shields.io/nuget/dt/PayBridge?style=flat-square&color=004880&logo=nuget)](https://www.nuget.org/packages/PayBridge) | A unified .NET SDK abstracting Flutterwave, Paystack, Fincra & Stripe under one Clean Architecture interface for payments, webhooks & transactions. |
+| [⏲️ **Termii SDK**](https://github.com/teesofttech/Termii.SDK) | 🚧 In Progress | [![Stars](https://img.shields.io/github/stars/teesofttech/Termii.SDK?style=flat-square&color=yellow&logo=github)](https://github.com/teesofttech/Termii.SDK) [![NuGet](https://img.shields.io/nuget/dt/Termii.SDK?style=flat-square&color=004880&logo=nuget)](https://www.nuget.org/packages/Termii.SDK) | A .NET SDK for Termii's messaging platform — SMS, voice, WhatsApp & email with OTP delivery, phone validation & transactional messaging. |
+| [⏰ **CronCraft**](https://github.com/teesofttech/CronCraft) | ✅ Stable | [![Stars](https://img.shields.io/github/stars/teesofttech/CronCraft?style=flat-square&color=yellow&logo=github)](https://github.com/teesofttech/CronCraft) [![NuGet](https://img.shields.io/nuget/dt/CronCraft?style=flat-square&color=004880&logo=nuget)](https://www.nuget.org/packages/CronCraft) | A fluent cron-expression builder, parser & validator for .NET — write readable schedules instead of magic strings. |
+| [🚍 **PolyBus**](https://github.com/teesofttech/PolyBus) | 🚧 In Progress | [![Stars](https://img.shields.io/github/stars/teesofttech/PolyBus?style=flat-square&color=yellow&logo=github)](https://github.com/teesofttech/PolyBus) [![NuGet](https://img.shields.io/nuget/dt/PolyBus?style=flat-square&color=004880&logo=nuget)](https://www.nuget.org/packages/PolyBus) | A pluggable .NET 8 messaging SDK unifying RabbitMQ, Azure Service Bus, Kafka & in-memory transport under one fluent API. |
+| [📊 **TableauSharp**](https://github.com/teesofttech/TableauSharp) | 🚧 In Progress | [![Stars](https://img.shields.io/github/stars/teesofttech/TableauSharp?style=flat-square&color=yellow&logo=github)](https://github.com/teesofttech/TableauSharp) [![NuGet](https://img.shields.io/nuget/dt/TableauSharp?style=flat-square&color=004880&logo=nuget)](https://www.nuget.org/packages/TableauSharp) | A .NET SDK for Tableau's REST & JavaScript APIs — connect, fetch workbooks/views, manage filters & embed analytics seamlessly. |
+
+</div>
+
+---
+
+<!-- ═══════════════════ OPEN SOURCE CONTRIBUTIONS ═══════════════════ -->
+## 🤝 Open Source Contributions
+
+<div align="center">
+
+*Projects I actively contribute to beyond my own work*
+
+| Project | Stars | My Contribution | Description |
+|:--------|:-----:|:---------------:|:------------|
+| [**madelson/DistributedLock**](https://github.com/madelson/DistributedLock) | [![Stars](https://img.shields.io/github/stars/madelson/DistributedLock?style=flat-square&color=yellow&logo=github)](https://github.com/madelson/DistributedLock) | [PR #250](https://github.com/madelson/DistributedLock/pull/250) | A .NET library providing distributed mutex locks, reader-writer locks, and semaphores — backed by SQL Server, Redis, Azure, and more. |
+| [**Arcenox-co/TickerQ**](https://github.com/Arcenox-co/TickerQ) | [![Stars](https://img.shields.io/github/stars/Arcenox-co/TickerQ?style=flat-square&color=yellow&logo=github)](https://github.com/Arcenox-co/TickerQ) | [3 PRs](https://github.com/Arcenox-co/TickerQ/pulls?q=is%3Apr+author%3Ateesofttech) | A modern .NET task scheduling library — implemented human-readable cron expression support, improved docs & more. |
+| [**thisisnabi/Blogger**](https://github.com/thisisnabi/Blogger) | [![Stars](https://img.shields.io/github/stars/thisisnabi/Blogger?style=flat-square&color=yellow&logo=github)](https://github.com/thisisnabi/Blogger) | [2 PRs](https://github.com/thisisnabi/Blogger/pulls?q=is%3Apr+author%3Ateesofttech) | A clean-architecture .NET blog API — added functional & comment-related tests to improve coverage. |
+| [**thisisnabi/Shortener**](https://github.com/thisisnabi/Shortener) | [![Stars](https://img.shields.io/github/stars/thisisnabi/Shortener?style=flat-square&color=yellow&logo=github)](https://github.com/thisisnabi/Shortener) | [PR #9](https://github.com/thisisnabi/Shortener/pull/9) | A .NET URL shortener service — added integration tests to validate end-to-end behaviour. |
+| [**BehzadDara/TodoListService**](https://github.com/BehzadDara/TodoListService) | [![Stars](https://img.shields.io/github/stars/BehzadDara/TodoListService?style=flat-square&color=yellow&logo=github)](https://github.com/BehzadDara/TodoListService) | [PR #2](https://github.com/BehzadDara/TodoListService/pull/2) | A .NET Todo List service — implemented Update & Delete CRUD operations for Users and Todos. |
 
 </div>
 
